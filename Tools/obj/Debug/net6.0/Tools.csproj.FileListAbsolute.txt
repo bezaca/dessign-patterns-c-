@@ -1,0 +1,5 @@
+C:\Users\felipe.cabezap\source\repos\DesignPatterns\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+C:\Users\felipe.cabezap\source\repos\DesignPatterns\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.cabezap\source\repos\DesignPatterns\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+C:\Users\felipe.cabezap\source\repos\DesignPatterns\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+C:\Users\felipe.cabezap\source\repos\DesignPatterns\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
